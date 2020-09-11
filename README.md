@@ -23,9 +23,13 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe acessibility on the web to someone new to programming?
+Everyone with all sorts of different needs accesses the internet, and for that reason you want to my your websites accommodating everyones possible needs. 
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+Make sure to use semantic code. That way someone with a screen reader will be able to navigate the website easier. People will access your site on varrying screensizes, so you should adjust your site to different screen sizes. In your pictures, you should include a alt tag so that someone who is unable to visualize it, they know what picture is there.
 3. How would you explain the concept of a variable to someone new to programming?
+You use variables in coding to assign a value to a variable so you can use that later in the program.
 4. What is the purpose of using functions in code?
+It blocks code and will only run it when invoked.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
@@ -44,7 +48,7 @@ Follow these steps to set up your project:
 
 *Before you jump in, take 10 minutes to review the code that has already been provided for you. Take time to see how the home page was built. During this time, [Review the provided design files](design/). You have been provided all content necessary in the [index.html file](index.html) and basic styling in the [index.css file](css/index.css).*
 
-* [ ] Add a viewport meta tag to the head of your index.html page.
+* [x] Add a viewport meta tag to the head of your index.html page.
 * [ ] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
 
 ### Task 2b: Minimum Viable Product - JavaScript
